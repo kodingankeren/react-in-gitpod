@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cucibos
+          Cucibos <FontAwesomeIcon icon={['fas', 'highlighter']} /> <FontAwesomeIcon icon={['fas', 'code']} />
         </p>
         <a
           className="App-link"
